@@ -10,5 +10,4 @@ Install python-telegrambot
 pip install python-telegram-bot==13.15
 ```
 
-#Live demo <br>
-https://t.me/sardoregamberdiyevuz
+Live demo: https://t.me/egamberdiyevsardor_bot
